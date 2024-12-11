@@ -1,6 +1,3 @@
-[submodule "launchpad"]
-	path = launchpad
-	url = git@github.com:public-awesome/launchpad.git
-[submodule "marketplace"]
-	path = marketplace
-	url = git@github.com:public-awesome/marketplace.git
+[submodule "contracts"]
+	path = contracts
+	url = git@github.com:Passage-Chain/contracts.git
