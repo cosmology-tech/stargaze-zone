@@ -2,7 +2,7 @@ import { getAssetLists } from '@chain-registry/utils';
 import { assets, chains, ibc } from 'chain-registry';
 import { writeFileSync } from 'fs';
 
-const chainName = 'stargaze';
+const chainName = 'passage';
 
 const asset_list = assets.reduce((m, { chain_name }) => {
   if (chain_name !== chainName) return m;
