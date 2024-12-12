@@ -1,8 +1,8 @@
 {
-  "name": "@stargaze-zone/contracts",
-  "version": "0.14.2",
-  "description": "Stargaze contracts",
-  "author": "Dan Lynch <pyramation@gmail.com>",
+  "name": "@passage-zone/contracts",
+  "version": "0.0.1",
+  "description": "Passage Contracts",
+  "author": "Adrian Estevez <adrianeea.ae@gmail.com>",
   "homepage": "https://github.com/cosmology-tech/stargazejs#readme",
   "license": "SEE LICENSE IN LICENSE",
   "main": "main/index.js",

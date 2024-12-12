@@ -13,7 +13,7 @@
   "registry": "https://registry.npmjs.org",
   "command": {
     "create": {
-      "homepage": "https://github.com/cosmology-tech/stargazejs",
+      "homepage": "https://github.com/ECHOAD/passagejs",
       "license": "SEE LICENSE IN LICENSE",
       "access": "restricted"
     },

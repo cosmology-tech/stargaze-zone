@@ -1,5 +1,5 @@
 {
-  "name": "stargaze-zone",
+  "name": "passage-zone",
   "version": "0.0.1",
   "publishConfig": {
     "access": "restricted"
@@ -33,6 +33,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cosmology-tech/stargazejs"
+    "url": "https://github.com/ECHOAD/passagejs"
   }
 }

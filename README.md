@@ -12,7 +12,7 @@ Typescript libraries for the Stargaze ecosystem.
 
 ## Packages
 
-#### [stargazejs](packages/stargazejs)
+#### [stargazejs](packages/passagejs)
 
 TS library with Cosmos SDK and Stargaze smart contracts.
 
