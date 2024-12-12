@@ -1,9 +1,9 @@
 {
-  "name": "stargaze-query",
-  "version": "0.15.5",
-  "description": "stargaze",
-  "author": "Dan Lynch <pyramation@gmail.com>",
-  "homepage": "https://github.com/cosmology-tech/stargazejs#readme",
+  "name": "passage-query",
+  "version": "0.0.1",
+  "description": "passage",
+  "author": "Adrian Estevez <adrianeea.ae@gmail.com>",
+  "homepage": "https://github.com/ECHOAD/passagejs#readme",
   "license": "SEE LICENSE IN LICENSE",
   "main": "main/index.js",
   "typings": "types/index.d.ts",
@@ -33,11 +33,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cosmology-tech/stargazejs"
+    "url": "https://github.com/ECHOAD/passagejs"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/cosmology-tech/stargazejs/issues"
+    "url": "https://github.com/ECHOAD/passagejs/issues"
   },
   "devDependencies": {
     "@babel/cli": "7.19.3",
